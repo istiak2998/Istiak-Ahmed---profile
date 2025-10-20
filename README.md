@@ -1,3 +1,3 @@
 # Istiak-Ahmed---profile
 This is my first Git repository <br>
-Author - Istiak Ahmed
+Author - Istiak Ahmed Maruf
